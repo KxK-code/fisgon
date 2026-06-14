@@ -38,7 +38,7 @@ cd dnsinspect
 chmod +x dnsinspect.sh
 
 # 4. Lanzar la auditoría apuntando a un dominio o IP
-./dnsinspect.sh senado.gob.mx
+./dnsinspect.sh senado.de.mi.pais.com "ejemplo"
 ```
 
 ## Estructura del Diccionario de Páginas Incluido (573 Sitios)
