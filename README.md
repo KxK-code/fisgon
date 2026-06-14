@@ -105,4 +105,4 @@ paginamexicanaquenoexisteabsolutamenteenningunlado.com
 ```
 
 ## Descargo de Responsabilidad
-
+Este software ha sido desarrollado estrictamente con fines educativos, de investigación y para la ejecución de pruebas de penetración autorizadas. El uso de esta herramienta contra infraestructuras sin el consentimiento previo y explícito de sus administradores es responsabilidad exclusiva del usuario final."recuerda la responsabilidad es de quien conduce el auto no de quien lo fabrica.metafora"
