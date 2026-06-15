@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/banner_fisgon.png" alt="FISGON DNSInspect Banner" width="100%">
+</p>
+
 # 👁️ FISGON (DNSInspect)
 
 FISGON es una herramienta ligera y automatizada en Bash diseñada para realizar auditorías de red pasivas mediante la técnica de **DNS Cache Snooping** (Reconocimiento por Espionaje de Caché DNS). 
