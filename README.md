@@ -36,7 +36,7 @@ pkg install dnsutils curl git -y
 ```
 2.INSTALACION HERRAMIENTA
 ```bash
-git clone https://github.com/KxK-code/fisgon
+git clone https://github.com/code-KxK/fisgon
 ```
 3.ACCEDER ALA CARPETA DE LA HERRAMIENTA DESCARGADA
 ```bash
@@ -48,7 +48,7 @@ chmod +x dnsinspect.sh
 ```
 CODIGO TODO EN UNO
 ```bash
-pkg install dnsutils curl git -y && git clone https://github.com/KxK-code/fisgon && cd fisgon && chmod +x dnsinspect.sh
+pkg install dnsutils curl git -y && git clone https://github.com/code-KxK/fisgon && cd fisgon && chmod +x dnsinspect.sh
 ```
 DESISTALACION
 ```bash
